@@ -1,0 +1,16 @@
+{
+    "author": [
+        "wilhelmines"
+    ],
+    "install_msg": "A cog that queries news from the tagesschau API.",
+    "name": "tagesschau_api",
+    "disabled": false,
+    "short": "News from tagesschau_api.",
+    "description": "A cog that queries news from the tagesschau API.",
+    "tags": [
+        "http",
+        "api"
+    ],
+    "hidden": false,
+    "min_bot_version": "3.5.0"
+}
